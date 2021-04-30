@@ -1,6 +1,6 @@
 # Desafios DIO
 Projeto comentado dos algoritmos resolvidos em Java, no BootCamp da Digital Innovation One
-para de servir de inspiração e futuras consultas.
+para servir de inspiração e futuras consultas.
 
 # Strak
 - Java 15
